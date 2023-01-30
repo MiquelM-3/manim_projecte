@@ -86,6 +86,8 @@ class MobjectsGrups(Scene):
         stars= VGroup(*[Star(color=YELLOW,fill_opacity=1).scale(0.5) for i in range(20)])
         stars.arrange_in_grid(4,5,buff=0.5)
 
+#Config mira en el video: https://www.youtube.com/watch?v=1Fv0Nu-Tb7Q&list=PLsMrDyoG1sZm6-jIUQCgN3BVyEVOZz3LQ&index=2&ab_channel=BenjaminHackl
+
 
 
 
