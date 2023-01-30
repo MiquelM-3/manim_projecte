@@ -1,7 +1,7 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.21 (MiKTeX 20.11) (preloaded format=latex 2023.1.28)  28 JAN 2023 16:31
+This is pdfTeX, Version 3.14159265-2.6-1.40.21 (MiKTeX 20.11) (preloaded format=latex 2023.1.28)  30 JAN 2023 20:38
 entering extended mode
-**./media/Tex/11f65e601625fa01.tex
-(media/Tex/11f65e601625fa01.tex
+**./media/Tex/fa84eca7bc3bb98d.tex
+(media/Tex/fa84eca7bc3bb98d.tex
 LaTeX2e <2020-10-01> patch level 2
 L3 programming layer <2020-10-27> xparse <2020-03-03>
 (C:\Users\Miquel\AppData\Local\Programs\MiKTeX\tex/latex/standalone\standalone.
@@ -163,8 +163,8 @@ File: l3backend-dvips.def 2020-09-24 L3 backend support: dvips
 \g__pdf_backend_link_int=\count269
 \g__pdf_backend_link_sf_int=\count270
 )
-No file 11f65e601625fa01.aux.
-\openout1 = `11f65e601625fa01.aux'.
+No file fa84eca7bc3bb98d.aux.
+\openout1 = `fa84eca7bc3bb98d.aux'.
 
 LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 7.
 LaTeX Font Info:    ... okay on input line 7.
@@ -191,16 +191,16 @@ File: umsb.fd 2013/01/14 v3.01 AMS symbols B
 )
 Preview: Tightpage 0 0 0 0
 [1]
-(C:\Users\Miquel\Desktop\manim_projecte\manim_projecte\media\Tex\11f65e601625fa
-01.aux) ) 
+(C:\Users\Miquel\Desktop\manim_projecte\manim_projecte\media\Tex\fa84eca7bc3bb9
+8d.aux) ) 
 Here is how much of TeX's memory you used:
  2943 strings out of 479800
  43387 string characters out of 2869274
- 327517 words of memory out of 3000000
+ 326517 words of memory out of 3000000
  19923 multiletter control sequences out of 15000+200000
  536787 words of font info for 37 fonts, out of 3000000 for 9000
  1141 hyphenation exceptions out of 8191
  66i,9n,72p,244b,152s stack positions out of 5000i,500n,10000p,200000b,50000s
 
 Output written on C:\Users\Miquel\Desktop\manim_projecte\manim_projecte\media\T
-ex\11f65e601625fa01.dvi (1 page, 1720 bytes).
+ex\fa84eca7bc3bb98d.dvi (1 page, 1688 bytes).

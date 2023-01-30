@@ -1,0 +1,8 @@
+# This file is used internally by FFMPEG.
+file 'file:C:/Users/Miquel/Desktop/manim_projecte/manim_projecte/media/videos/Animation_intro/720p30/partial_movie_files/AnimationMechanisms/274514146_3315967912_3049666168.mp4'
+file 'file:C:/Users/Miquel/Desktop/manim_projecte/manim_projecte/media/videos/Animation_intro/720p30/partial_movie_files/AnimationMechanisms/2789044632_4237883624_2174835668.mp4'
+file 'file:C:/Users/Miquel/Desktop/manim_projecte/manim_projecte/media/videos/Animation_intro/720p30/partial_movie_files/AnimationMechanisms/2789044632_951317385_3561976784.mp4'
+file 'file:C:/Users/Miquel/Desktop/manim_projecte/manim_projecte/media/videos/Animation_intro/720p30/partial_movie_files/AnimationMechanisms/2789044632_1684022848_1930810743.mp4'
+file 'file:C:/Users/Miquel/Desktop/manim_projecte/manim_projecte/media/videos/Animation_intro/720p30/partial_movie_files/AnimationMechanisms/2789044632_1737476998_1956993042.mp4'
+file 'file:C:/Users/Miquel/Desktop/manim_projecte/manim_projecte/media/videos/Animation_intro/720p30/partial_movie_files/AnimationMechanisms/2789044632_329969645_2008175927.mp4'
+file 'file:C:/Users/Miquel/Desktop/manim_projecte/manim_projecte/media/videos/Animation_intro/720p30/partial_movie_files/AnimationMechanisms/2789044632_3608386897_3585204734.mp4'
